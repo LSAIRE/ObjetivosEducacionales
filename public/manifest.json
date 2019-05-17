@@ -1,6 +1,6 @@
 {
-  "name": "A basic Progressive Web App",
-  "short_name": "Basic PWA",
+  "name": "sis",
+  "short_name": "Basic demo PWA",
   "start_url": ".",
   "display": "standalone",
   "orientation": "portrait",
