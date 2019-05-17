@@ -9,10 +9,10 @@ self.addEventListener('install', function (event) {
         cache.addAll([
           '/',
           'index.html',
-          '/index.html',
-          '/src/js/app.js',
-          '/src/css/app.css',
-          '/src/images/logo.jpg',
+          '/public/src/index.html',
+          '/public/src/js/app.js',
+          '/public/src/css/app.css',
+          '/public/src/images/logo.jpg',
           'https://fonts.googleapis.com/css?family=Raleway:400,700'
         ]);
       })
