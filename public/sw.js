@@ -12,6 +12,7 @@ self.addEventListener('install', function (event) {
           '/public/src/index.html',
           '/public/src/js/app.js',
           '/public/src/css/app.css',
+          '/src/css/app.css',
           '/public/src/images/logo.jpg',
           'https://fonts.googleapis.com/css?family=Raleway:400,700'
         ]);
