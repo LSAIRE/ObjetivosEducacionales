@@ -41,7 +41,7 @@ body, html {
 }
 
 .login {
-  border: 1px solid #424242;
+  border: 1px solid white;
   box-shadow: 1px 1px 1px #424242;
   width: 80%;  
   max-width: 800px;
