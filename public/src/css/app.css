@@ -78,7 +78,7 @@ div#headercentral {
   float: left;
 }
 .headerimage {
-  width: 50%;
+  max-width: 100%;
   margin: auto;
 }
 
