@@ -30,7 +30,14 @@ body, html {
   margin-bottom: 36px;
 }
 
-.main-header div h1 p{
+.main-header div h1 {
+  font-size: 1.75em;
+  margin: 0;
+  height: 60px;
+  color: white;
+}
+
+.main-header div p {
   font-size: 1.75em;
   margin: 0;
   height: 60px;
